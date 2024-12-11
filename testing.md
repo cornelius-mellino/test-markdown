@@ -23,6 +23,9 @@ Paragraf
 Paragraf
 Paragraf
 
+
+|[<img src="/assets/images/transformer.jpg"/>](/assets/images/transformer.jpg)|
+
 ## Sub-Judul 2
 
 Paragraf
